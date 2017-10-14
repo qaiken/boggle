@@ -1,7 +1,7 @@
 {
   "name": "boggle",
   "version": "1.0.0",
-  "description": "Boggle",
+  "description": "Generates a valid Boggle word tray and then solve for the best possible score",
   "main": "src/index.js",
   "scripts": {
     "boggle": "node src/index",
